@@ -1,3 +1,4 @@
+# Author: Wibucode
 import zipfile, os, sys
 os.system("clear")
 zip = raw_input("Nama File: ")
